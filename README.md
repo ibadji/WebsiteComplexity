@@ -18,11 +18,11 @@ Note:
 
 ## Installation:
 The following needs to be installed using pip
-	*from browsermobproxy import Server: pip install browsermob-proxy
-	*from selenium import webdriver: pip install selenium
-	*from splinter import Browser: pip install splinter
-	*import json: pip install simplejson
-	*import argparse: pip install argparse
-	*from haralyzer import HarPage: pip install haralyzer
-	*from statistics import mean: pip install statistics
+	- from browsermobproxy import Server: pip install browsermob-proxy
+	- from selenium import webdriver: pip install selenium
+	- from splinter import Browser: pip install splinter
+	- import json: pip install simplejson
+	- import argparse: pip install argparse
+	- from haralyzer import HarPage: pip install haralyzer
+	- from statistics import mean: pip install statistics
 The chromedriver needs also to be downloaded as well as browsermod-proxy
